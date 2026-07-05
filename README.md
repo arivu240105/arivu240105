@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Arivazhagan Murugesan</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arivu240105" alt="arivu240105" /></a> </p>
+ I'M A FINAL YEAR ENGINEERING STUDENT 
 
 - 🔭 I’m currently working on **AI code QA Audit project**
 
-- 🌱 I’m currently learning **Generative AI, LLM**
+- 🌱 I’m currently develop projects related to **Generative AI, LLM**
 
 - 💬 Ask me about **Python, DSA, SQL, Docker**
 
 - 📫 How to reach me **arivazhagan1144@gmail.com**
 
-- ⚡ Fun fact **I am developing projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
